@@ -303,11 +303,11 @@ Report successfully generated to allure-report
 ```
 Allure reports:
 
-<img src= "https://github.com/arjun436/RestServicesTesting_TypeScript/blob/master/image/3.png"/>
+<img src= "https://github.com/arjun436/RestServicesTesting_TypeScript/blob/master/image/3.PNG"/>
 </p>
-<img src= "https://github.com/arjun436/RestServicesTesting_TypeScript/blob/master/image/4.png"/>
+<img src= "https://github.com/arjun436/RestServicesTesting_TypeScript/blob/master/image/4.PNG"/>
 </p>
-<img src= "https://github.com/arjun436/RestServicesTesting_TypeScript/blob/master/image/5.png"/>
+<img src= "https://github.com/arjun436/RestServicesTesting_TypeScript/blob/master/image/5.PNG"/>
 </p>
 
 
